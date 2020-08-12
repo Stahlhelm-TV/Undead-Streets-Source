@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UndeadStreets", "UndeadStreets.csproj", "{C5FFD0B3-F784-4351-882F-FCAFBF0B58E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5FFD0B3-F784-4351-882F-FCAFBF0B58E3}.Debug|x86.ActiveCfg = Debug|x86
+		{C5FFD0B3-F784-4351-882F-FCAFBF0B58E3}.Debug|x86.Build.0 = Debug|x86
+		{C5FFD0B3-F784-4351-882F-FCAFBF0B58E3}.Release|x86.ActiveCfg = Release|x86
+		{C5FFD0B3-F784-4351-882F-FCAFBF0B58E3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C24D1887-D760-41D6-AA15-5A87943E92A9}
+	EndGlobalSection
+EndGlobal

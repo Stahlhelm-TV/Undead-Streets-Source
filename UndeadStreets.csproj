@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <ProjectType>local</ProjectType>
+    <ProjectVersion>7.10.377</ProjectVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C5FFD0B3-F784-4351-882F-FCAFBF0B58E3}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <AssemblyName>UndeadStreets</AssemblyName>
+    <OutputType>Library</OutputType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Global.cs" />
+    <Compile Include="Gender.cs" />
+    <Compile Include="UpdaterClass.cs" />
+    <Compile Include="UndeadStreets\Character.cs" />
+    <Compile Include="UndeadStreets\Config.cs" />
+    <Compile Include="UndeadStreets\Debug.cs" />
+    <Compile Include="UndeadStreets\Extensions.cs" />
+    <Compile Include="UndeadStreets\ModMenu.cs" />
+    <Compile Include="UndeadStreets\IWeapon.cs" />
+    <Compile Include="UndeadStreets\Weapon.cs" />
+    <Compile Include="UndeadStreets\PedData.cs" />
+    <Compile Include="UndeadStreets\PedCollection.cs" />
+    <Compile Include="UndeadStreets\PlayerGroup.cs" />
+    <Compile Include="UndeadStreets\VehicleCollection.cs" />
+    <Compile Include="UndeadStreets\VehicleData.cs" />
+    <Compile Include="UndeadStreets\PlayerVehicle.cs" />
+    <Compile Include="UndeadStreets\SurvivorPed.cs" />
+    <Compile Include="UndeadStreets\FoodType.cs" />
+    <Compile Include="UndeadStreets\RestoreType.cs" />
+    <Compile Include="UndeadStreets\InventoryItem.cs" />
+    <Compile Include="UndeadStreets\IFood.cs" />
+    <Compile Include="UndeadStreets\IRestore.cs" />
+    <Compile Include="UndeadStreets\ICraftable.cs" />
+    <Compile Include="UndeadStreets\InventoryCraftableMaterial.cs" />
+    <Compile Include="UndeadStreets\InventoryMaterial.cs" />
+    <Compile Include="UndeadStreets\InventoryCraftableFoodItem.cs" />
+    <Compile Include="UndeadStreets\InventoryFoodItem.cs" />
+    <Compile Include="UndeadStreets\MaterialCraftable.cs" />
+    <Compile Include="UndeadStreets\Inventory.cs" />
+    <Compile Include="UndeadStreets\Main.cs" />
+    <Compile Include="UndeadStreets\Map.cs" />
+    <Compile Include="UndeadStreets\StartMenu.cs" />
+    <Compile Include="UndeadStreets\GroupType.cs" />
+    <Compile Include="UndeadStreets\PedTasks.cs" />
+    <Compile Include="UndeadStreets\Population.cs" />
+    <Compile Include="UndeadStreets\RandoMath.cs" />
+    <Compile Include="UndeadStreets\Relationships.cs" />
+    <Compile Include="UndeadStreets\BlipController.cs" />
+    <Compile Include="UndeadStreets\Stats.cs" />
+    <Compile Include="UndeadStreets\ZombiePed.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="NativeUI">
+      <HintPath>..\..\Assembly\NativeUI.dll</HintPath>
+    </Reference>
+    <Reference Include="ScriptHookVDotNet3">
+      <HintPath>..\..\Assembly\ScriptHookVDotNet3.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
