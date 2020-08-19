@@ -1,7 +1,7 @@
-# Undead-Streets-Source
+# Undead Streets Source Dev Branch
 
-Source from a mod for GTA V called "Unead Streets"
+In this branch i will try to fix the mod myself and add new features. im also going to try and use it to train myself to be more comfortable in C#. Expect nothing big for now but lets hope in the near future that this mod gets revived again and that i can fix it and update it  
 
-Was dumped or at least completely removed from gta5-mods.com and wiped off the earth until now. Complete source is here.
-
-Link to the new Undead Streets Discord channel on the Ocramium server: https://discord.gg/BEAMcGH
+We also got a channel which is dedicated to the Undead Streets mod in Ocramium's Server: [Join](https://discord.gg/BEAMcGH)  
+My Private server where all my projects are stored: [Join](https://discord.gg/fqwWZ4h)  
+My Shop: [Visit](https://sellix.io/Huskos-Shop)  
