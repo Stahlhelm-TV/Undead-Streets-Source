@@ -6,6 +6,9 @@ In this branch i will try to fix the mod myself and add new features. im also go
 
 **Our Team: [Visit](https://github.com/Stahlhelm-TV/Undead-Streets-Source/blob/dev/Credits.md)**
 
+## Bug Report
+You want to report a bug or tell us something? Send it here: [Click](https://github.com/Stahlhelm-TV/bug-reports/issues/new/choose)
+
 ### Other Info's  
 We also got a channel which is dedicated to the Undead Streets mod in Ocramium's Server: [Join](https://discord.gg/BEAMcGH)  
 My Private server where all my projects are stored: [Join](https://discord.gg/fqwWZ4h)  
