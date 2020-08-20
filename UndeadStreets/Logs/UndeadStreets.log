@@ -1,0 +1,155 @@
+6/16/2020 1:44:12 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Population.VehicleSpawn(Vector3 position, Single heading)
+   at UndeadStreets.Population.PopulateVehicles()
+6/16/2020 3:32:48 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Population.VehicleSpawn(Vector3 position, Single heading)
+   at UndeadStreets.Population.PopulateVehicles()
+6/16/2020 3:37:33 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Population.VehicleSpawn(Vector3 position, Single heading)
+   at UndeadStreets.Population.PopulateVehicles()
+6/16/2020 3:39:25 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:40:12 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Population.VehicleSpawn(Vector3 position, Single heading)
+   at UndeadStreets.Population.PopulateVehicles()
+6/16/2020 3:41:00 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Population.VehicleSpawn(Vector3 position, Single heading)
+   at UndeadStreets.Population.PopulateVehicles()
+6/16/2020 3:43:04 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Population.VehicleSpawn(Vector3 position, Single heading)
+   at UndeadStreets.Population.PopulateVehicles()
+6/16/2020 3:43:35 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Population.VehicleSpawn(Vector3 position, Single heading)
+   at UndeadStreets.Population.PopulateVehicles()
+6/16/2020 3:46:19 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Population.VehicleSpawn(Vector3 position, Single heading)
+   at UndeadStreets.Population.PopulateVehicles()
+6/16/2020 3:47:00 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Population.VehicleSpawn(Vector3 position, Single heading)
+   at UndeadStreets.Population.PopulateVehicles()
+6/16/2020 3:55:03 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Population.VehicleSpawn(Vector3 position, Single heading)
+   at UndeadStreets.Population.PopulateVehicles()
+6/16/2020 3:55:51 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Population.VehicleSpawn(Vector3 position, Single heading)
+   at UndeadStreets.Population.PopulateVehicles()
+6/16/2020 3:56:10 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Population.VehicleSpawn(Vector3 position, Single heading)
+   at UndeadStreets.Population.PopulateVehicles()
+6/16/2020 3:58:13 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:58:59 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:58:59 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:00 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:00 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:24 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:27 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:33 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:34 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:34 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:34 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:34 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:38 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:39 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:40 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:45 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:45 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:46 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:46 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:46 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:47 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:47 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:48 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:48 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:48 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:48 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:49 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:49 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:49 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:49 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:49 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:50 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 3:59:50 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 4:00:55 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 4:00:55 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 4:00:55 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 4:00:55 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 4:00:55 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 4:00:56 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 4:00:56 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 4:00:56 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 4:00:56 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 4:00:56 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 4:00:57 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 4:00:57 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 4:00:58 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 4:01:45 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Population.VehicleSpawn(Vector3 position, Single heading)
+   at UndeadStreets.Population.PopulateVehicles()
+6/16/2020 4:02:29 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Population.VehicleSpawn(Vector3 position, Single heading)
+   at UndeadStreets.Population.PopulateVehicles()
+6/16/2020 4:05:24 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Population.VehicleSpawn(Vector3 position, Single heading)
+   at UndeadStreets.Population.PopulateVehicles()
+6/16/2020 4:10:44 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Population.VehicleSpawn(Vector3 position, Single heading)
+   at UndeadStreets.Population.PopulateVehicles()
+6/16/2020 4:11:09 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Population.VehicleSpawn(Vector3 position, Single heading)
+   at UndeadStreets.Population.PopulateVehicles()
+6/16/2020 4:11:19 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Population.VehicleSpawn(Vector3 position, Single heading)
+   at UndeadStreets.Population.PopulateVehicles()
+6/16/2020 4:12:47 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Population.VehicleSpawn(Vector3 position, Single heading)
+   at UndeadStreets.Population.PopulateVehicles()
+6/16/2020 4:14:40 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
+6/16/2020 4:14:40 PM : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UndeadStreets.Inventory.OnTick(Object sender, EventArgs e)
